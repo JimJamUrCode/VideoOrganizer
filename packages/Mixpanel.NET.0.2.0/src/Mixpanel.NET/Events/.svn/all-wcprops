@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/68/trunk/packages/Mixpanel.NET.0.2.0/src/Mixpanel.NET/Events
+END
+TrackerOptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/68/trunk/packages/Mixpanel.NET.0.2.0/src/Mixpanel.NET/Events/TrackerOptions.cs
+END
+MixpanelTracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/68/trunk/packages/Mixpanel.NET.0.2.0/src/Mixpanel.NET/Events/MixpanelTracker.cs
+END
+TrackingEventBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/68/trunk/packages/Mixpanel.NET.0.2.0/src/Mixpanel.NET/Events/TrackingEventBase.cs
+END
+MixpanelEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/68/trunk/packages/Mixpanel.NET.0.2.0/src/Mixpanel.NET/Events/MixpanelEvent.cs
+END
+ITracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/68/trunk/packages/Mixpanel.NET.0.2.0/src/Mixpanel.NET/Events/ITracker.cs
+END

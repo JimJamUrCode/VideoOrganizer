@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Administrator\Desktop\Publish\|C:\Users\Administrator\Desktop\|C:\Users\James\Desktop\Publish\|C:\Users\HTPC\Desktop\Published\|C:\Documents and Settings\Administrator\Desktop\Published\</PublishUrlHistory>
+    <InstallUrlHistory>http://hardingconcepts.com/videoorganizer/|http://67.176.115.13:8001/videoorganizer/|http://http://hardingconcepts.com/videoorganizer/|http://67.176.115.13:8080/videoorganizer/|http://67.176.115.13/videoorganizer/</InstallUrlHistory>
+    <SupportUrlHistory>http://code.google.com/p/videoorganizer/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://code.google.com/p/videoorganizer/</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DebugSecurityZoneURL>http://rowdy.mscd.edu/~jhardi12/VideoOrganizer/</DebugSecurityZoneURL>
+  </PropertyGroup>
+</Project>

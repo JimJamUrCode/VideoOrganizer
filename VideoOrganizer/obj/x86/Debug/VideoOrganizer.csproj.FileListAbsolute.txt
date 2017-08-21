@@ -1,0 +1,27 @@
+c:\users\htpc\documents\visual studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\htpc\documents\visual studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.Form1.resources
+c:\users\htpc\documents\visual studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.Properties.Resources.resources
+c:\users\htpc\documents\visual studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\htpc\documents\visual studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\htpc\documents\visual studio 2010\Projects\VideoOrganizer\VideoOrganizer\bin\Debug\VideoOrganizer.exe
+c:\users\htpc\documents\visual studio 2010\Projects\VideoOrganizer\VideoOrganizer\bin\Debug\VideoOrganizer.pdb
+c:\users\htpc\documents\visual studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.exe
+c:\users\htpc\documents\visual studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.pdb
+C:\Users\HTPC\Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.FindForm.resources
+C:\Users\HTPC\Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.ResultsForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\bin\Debug\VideoOrganizer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\bin\Debug\VideoOrganizer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.FindForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.ResultsForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\bin\Debug\VideoOrganizer.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\bin\Debug\VideoOrganizer.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.VideoOrganizerForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.TrustInfo.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\VideoOrganizer\VideoOrganizer\obj\x86\Debug\VideoOrganizer.application
