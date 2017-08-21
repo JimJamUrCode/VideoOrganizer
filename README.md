@@ -1,8 +1,6 @@
 # VideoOrganizer
 Organizes a collection of videos, regardless of type or location.
 
-http://www.hardingconcepts.com/videoorganizer/TitleVideoOrganizer.png
-
 I finally decided to get my own domain, so now updates should work more seamlessly, although you are going to need to do a manual update once more to finally get your updates from my domain.
 
 Version 1.0.0.64 is now live, and it includes major bug fixes for auto loading, so download now!
